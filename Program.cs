@@ -17,3 +17,7 @@ class Program
         {
             sum += i;
         }
+        
+        Console.WriteLine($"Сумма натуральных элементов от {m} до {n} равна {sum}");
+    }
+}
